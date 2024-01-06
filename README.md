@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagra178s" alt="kushagra178s" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, Express, MongoDb**
+- 🌱 I’m currently building qith **React.js, Node.js, Express, MongoDb, Java SpringBoot , Mysql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
